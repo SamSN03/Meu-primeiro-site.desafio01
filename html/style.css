@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+}
+body{
+    background-color: lightblue;
+}
+#imagem-fundo{ 
+    height: 100%;
+    background: url("img/pexels-pixabay-315938.jpg");
+    width: 100%;
+    text-align: center;
+}
+#título{
+    color:black;
+    font-family:cursive;
+    padding-top: 20%;
+    margin-bottom: 5;
+
+}
+#subtítulo{
+    margin: 01;
+    padding-left: 20%;
+    padding-right: 20%;
+    color:black;
+}
+#ação{
+    color: gray;
+    border: 1px gray solid;
+}
+p{
+    text-align: justify;
+    text-align:left;
+    margin-block-start: 1em;
+}
+br{
+    padding-left: 20%;
+    padding-left: 20%;
+    margin: 0% 20% 0% 20%;
+}
+
